@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(32, 207, 32);
+    color: rgb(138, 9, 9);
+}
+body{ 
+    margin: 40px auto;
+    max-width: 650px;
+}
+a{
+    color: rgb(139, 0, 86);
+}
+.covid{
+    color: darkred;
+}
+.corona{
+    font-size: larger;
+}
+img{
+    border-radius: 30px;
+}
+#coronavirus{
+    object-position: 70px 30px;
+}
+table,th,td{
+    border: 1px solid blue;
+    
+}
